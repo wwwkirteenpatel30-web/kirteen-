@@ -1,0 +1,6 @@
+{
+  "name": "MedReminder",
+  "description": "A smart medication reminder with calendar, daily schedule, adherence analytics, and 35-day countdown alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
